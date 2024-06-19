@@ -1,0 +1,14 @@
+{
+  "name": "thoughtful-code-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<jacktbader5@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
